@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  background-color: #f8f9fa;
+}
+
+.image {
+  vertical-align: left;
+}
+.about {
+  background-color: white;
+}
+.underline {
+  margin: auto;
+  margin-top: 1.5%;
+}
+
+.vertical-line {
+  rotate: y;
+}
+.skills {
+  background-color: white;
+  font-size: 2em;
+}
+
+.footer {
+  background-color: slategrey;
+}
+
+.title3 {
+  font-size: 0.5em;
+}
+
+#resume {
+  width: 210mm;
+  height: 315mm;
+  margin-left: auto;
+  margin-right: auto;
+}
